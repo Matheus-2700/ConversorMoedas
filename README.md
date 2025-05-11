@@ -24,7 +24,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/conversor-de-moedas.git
+git clone https://github.com/Matheus-2700/ConversorMoedas.git
 
 Compile o projeto com o comando:
 
