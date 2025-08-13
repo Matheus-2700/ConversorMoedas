@@ -1,0 +1,5 @@
+com/currencyconverter/menu/MenuTest.class
+com/currencyconverter/api/ApiServiceTest.class
+com/currencyconverter/converter/CurrencyConverterTest.class
+com/currencyconverter/history/ConversionHistoryTest$1.class
+com/currencyconverter/history/ConversionHistoryTest.class
